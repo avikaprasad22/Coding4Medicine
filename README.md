@@ -21,10 +21,10 @@ Early episodes use ε-greedy exploration (ε = 1.0), meaning the agent acts rand
 - <code> cd NAME_OF_DIRECTORY</code>
 - <code> git clone https://github.com/avikaprasad22/Coding4Medicine.git </code>
 - <code>cd Coding4Medicine </code>
-- <code> python3 -m venv venv </code>
-- <code>source venv/bin/activate<code>
+- <code>python3 -m venv venv</code>
+- <code>source venv/bin/activate</code>
 - <code>pip install numpy matplotlib</code>
-- <code> code .</code>
+- <code>code .</code>
 
 ### Now that you have the project open in VSCode:
 1. Go to the terminal and type <code>python bioprint_simulator.py</code>
